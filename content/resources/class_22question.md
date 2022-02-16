@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains assignment for "Enabling Business Strategy with IT
   at the World Bank".
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-568a-practical-information-technology-management-spring-2005/e8144b4eeee1fc407ba31ed1c51ef843_class_22question.pdf
+file: /media/courses/15-568a-practical-information-technology-management-spring-2005/e8144b4eeee1fc407ba31ed1c51ef843_class_22question.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: class_22question.pdf
 uid: e8144b4e-eee1-fc40-7ba3-1ed1c51ef843

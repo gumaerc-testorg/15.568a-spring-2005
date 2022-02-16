@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains questions and assignment for Dow Corning.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-568a-practical-information-technology-management-spring-2005/da1516132beed069670ffc8a580a3b9f_class_9_question.pdf
+file: /media/courses/15-568a-practical-information-technology-management-spring-2005/da1516132beed069670ffc8a580a3b9f_class_9_question.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: class_9_question.pdf
 uid: da151613-2bee-d069-670f-fc8a580a3b9f

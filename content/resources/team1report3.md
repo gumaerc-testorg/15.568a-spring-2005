@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-568a-practical-information-technology-management-spring-2005/50c8aeb5fd75064a9142bd1b35394aef_team1report3.pdf
+file: /media/courses/15-568a-practical-information-technology-management-spring-2005/50c8aeb5fd75064a9142bd1b35394aef_team1report3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: team1report3.pdf
 uid: 50c8aeb5-fd75-064a-9142-bd1b35394aef
