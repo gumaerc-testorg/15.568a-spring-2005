@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6fce17bd-bcae-e5c9-fbf4-9ac28a0b570c
 resourcetype: Document
 title: team3proposal.pdf
 uid: 2efdb065-b7cf-3547-7d90-ec04a87c4fbf

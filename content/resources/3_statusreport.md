@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6fce17bd-bcae-e5c9-fbf4-9ac28a0b570c
 resourcetype: Document
 title: 3_statusreport.pdf
 uid: 5457b1a3-652e-54e7-238c-260d40ac185f

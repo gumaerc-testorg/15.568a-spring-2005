@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4f301f32-9bbf-53fd-2bdd-d62f97bbafb8
 resourcetype: Document
 title: class_20_ace_wp.pdf
 uid: 47ccdc28-49c0-f69c-5245-87020b0606fb

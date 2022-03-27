@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6fce17bd-bcae-e5c9-fbf4-9ac28a0b570c
 resourcetype: Document
 title: team2report3.pdf
 uid: 8eb75628-a350-0750-404d-c1bb7a77cfd1

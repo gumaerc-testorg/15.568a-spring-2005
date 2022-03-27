@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6fce17bd-bcae-e5c9-fbf4-9ac28a0b570c
 resourcetype: Document
 title: 1_casediscussion.pdf
 uid: 8cb925f1-49ed-10e7-2571-cbee83966ad0

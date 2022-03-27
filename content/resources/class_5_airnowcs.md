@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4f301f32-9bbf-53fd-2bdd-d62f97bbafb8
 resourcetype: Document
 title: class_5_airnowcs.pdf
 uid: d1747f06-9ef1-a723-63a0-f3b918b2a713
