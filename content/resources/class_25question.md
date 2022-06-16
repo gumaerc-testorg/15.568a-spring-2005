@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-568a-practical-information-technology-management-spring-2005/9f617b4d8d189c621294372cdc8a2553_class_25question.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/9f617b4d8d189c621294372cdc8a2553_class_25question.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

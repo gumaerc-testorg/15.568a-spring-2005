@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings section contains a list of readings for the sessions and it
+  also contains handouts for few lectures.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -51,7 +53,7 @@ Lecture and Discussion: Course Importance, Topics, Logistics
 {{< tdopen >}}
 
 
-Case: On the Spot at Dynamix Enterprises ([PDF]({{< baseurl >}}/resources/class_1_case))
+Case: On the Spot at Dynamix Enterprises ({{% resource_link d8056f09-bd0b-3be6-ffb9-1a7a9c39bac9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -161,7 +163,7 @@ Case Discussion: AIRNow Presentation, Visitor: Jane Linder
 {{< tdopen >}}
 
 
-Case: AIRNow case ([PDF]({{< baseurl >}}/resources/class_5_airnowcs))
+Case: AIRNow case ({{% resource_link d1747f06-9ef1-a723-63a0-f3b918b2a713 "PDF" %}})
 
 _A Guide to the Project Management Body of Knowledge (PMBOK Guides)_. Newtown Square, PA: Project Management Institute, 2004. ISBN: 193069945X.
 
@@ -389,7 +391,7 @@ Case Discussion: Lifeline, Visitor: CIO Rich Reich
 {{< tdopen >}}
 
 
-Case: Lifeline Systems, Inc. ([PDF]({{< baseurl >}}/resources/class_13_lifelin))
+Case: Lifeline Systems, Inc. ({{% resource_link 4fe112fd-8dc5-0087-3fb1-2f73ee45ece1 "PDF" %}})
 
 Broadbent, M., and P. Weill. "Management by Maxim: How Business and IT Managers can Create Infrastructures." _Sloan Management Review_ (Spring 1997): 77-92.
 
@@ -575,7 +577,7 @@ ACE Case, US Customs Transformation
 {{< tdopen >}}
 
 
-Case: The ACE Case ([PDF]({{< baseurl >}}/resources/class_20_ace_wp))
+Case: The ACE Case ({{% resource_link 47ccdc28-49c0-f69c-5245-87020b0606fb "PDF" %}})
 
 Eisenhardt, K. M., and D. N. Sull. "Strategy as Simple Rules." _Harvard Business Review_ (January 2001).
 

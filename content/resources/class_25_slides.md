@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the notes for the topic: ''Does IT Matter'''
-file: /media/courses/15-568a-practical-information-technology-management-spring-2005/95d340b4bae834eca588a81ae3222b4e_class_25_slides.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/95d340b4bae834eca588a81ae3222b4e_class_25_slides.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: class_25_slides.pdf
 uid: 95d340b4-bae8-34ec-a588-a81ae3222b4e
 ---
+This file contains the notes for the topic: 'Does IT Matter'
+

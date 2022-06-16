@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file consists of the case study of AIRNow.
-file: /media/courses/15-568a-practical-information-technology-management-spring-2005/d1747f069ef1a72363a0f3b918b2a713_class_5_airnowcs.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/d1747f069ef1a72363a0f3b918b2a713_class_5_airnowcs.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -13,3 +13,5 @@ resourcetype: Document
 title: class_5_airnowcs.pdf
 uid: d1747f06-9ef1-a723-63a0-f3b918b2a713
 ---
+This file consists of the case study of AIRNow.
+
