@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Syllabus section contains the objectives, grading criteria for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 28195661-5f6c-d998-2e47-6124075bae4c
 ---

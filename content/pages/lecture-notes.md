@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Lecture notes section contains notes for sessions and questionnaires
+  which students need to prepare before the class.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 61d3f6a3-1803-d4b7-818f-c457ade9284d
 ---
@@ -36,7 +41,7 @@ LECTURE NOTES
 Lecture and Discussion: Course Importance, Topics, Logistics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_1_slides))
+({{% resource_link 508b3740-bcde-07c8-fc7f-463e13875554 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +53,7 @@ Lecture and Discussion: Course Importance, Topics, Logistics
 Case Discussion: Royal Caribbean Cruises Ltd.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_2_question))
+({{% resource_link 1dfec9b5-101a-3c18-1fd2-20cad4d1e5f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Case Discussion: Royal Caribbean Cruises Ltd.
 Case Discussion: Administrative Data Project (A)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_3_question))
+({{% resource_link 7970834c-2451-0f89-48b9-44329a5e749a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Case Discussion: Administrative Data Project (A)
 Case Discussion: Administrative Data Project (B and C)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_4_question))
+({{% resource_link 53b6a1a6-2cfc-bbce-e737-699b38f49e37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ Case Discussion: Administrative Data Project (B and C)
 Case Discussion: AIRNow Presentation, Visitor: Jane Linder
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_5_question))
+({{% resource_link de5984d3-3889-7c47-41d9-d6c786534ded "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Case Discussion: AIRNow Presentation, Visitor: Jane Linder
 Case: PharmaCo Presentation, Visitor: Ben Porter
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_6_question))
+({{% resource_link 070b5c3a-1334-ace8-6486-bc4ce403b38c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +125,7 @@ Case: PharmaCo Presentation, Visitor: Ben Porter
 Case Discussion: First National City Bank Operating Group
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_7_question))
+({{% resource_link 57cb2f97-c3e8-062e-853b-c09f38efb0e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +137,7 @@ Case Discussion: First National City Bank Operating Group
 Continuation of First National City Bank Operating Group Discussion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_8_question))
+({{% resource_link 94cd4919-59a9-1b1c-191c-830fe52985c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +149,7 @@ Continuation of First National City Bank Operating Group Discussion
 Case Discussion: Dow Corning
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_9_question))
+({{% resource_link da151613-2bee-d069-670f-fc8a580a3b9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +161,7 @@ Case Discussion: Dow Corning
 Implementation Readings Review, and Visitor on ERP Implementation Experience: Mike Shanno, EMC Corporation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_10question))
+({{% resource_link ed4289af-d504-e114-9cb9-190969db9af8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ Implementation Readings Review, and Visitor on ERP Implementation Experience: Mi
 RFID, Visitor: Prof. Brian Subirana
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_11question))
+({{% resource_link 4029165b-70b4-2aec-634b-f52cc99ce3cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ RFID, Visitor: Prof. Brian Subirana
 Case Discussion: Care Group
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_12question))
+({{% resource_link 42a798a9-dcc3-141f-7762-f4774436e6c1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ Case Discussion: Care Group
 Case Discussion: Lifeline, Visitor: CIO Rich Reich
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_13question))
+({{% resource_link d949e84c-afb9-9501-d433-ca5093e0386c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +215,7 @@ Case Discussion: Lifeline, Visitor: CIO Rich Reich
 Class Discussion of Student Projects
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_14question))
+({{% resource_link 83f8f86d-d280-9c36-f241-9d5ddf64546c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +227,7 @@ Class Discussion of Student Projects
 Visitor: Arup Gupta, CEO, Tata Consultancy Services
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_15question))
+({{% resource_link b5233013-3330-b9c0-5ebe-a929195b95fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +245,7 @@ Visitor: Arup Gupta, CEO, Tata Consultancy Services
 Special Assignment on Getting Business Value from IT Frameworks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_16question))
+({{% resource_link 972d0a26-f8ea-893e-8ae1-486cc50c184d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +257,7 @@ Special Assignment on Getting Business Value from IT Frameworks
 The MIT Process Handbook, Visitor: Prof. Tom Malone
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_17question))
+({{% resource_link d1b10b3c-4546-2801-6514-31622ed57c2f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +269,7 @@ The MIT Process Handbook, Visitor: Prof. Tom Malone
 Web Services and Business Process Management, Visitor: Evan Mamas
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_18question))
+({{% resource_link e61e8cc6-0b0d-b5dc-4313-df0c919c4432 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +287,7 @@ Web Services and Business Process Management, Visitor: Evan Mamas
 TYCO Readings, Visitor: CIO Dana Deasy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_19question))
+({{% resource_link 25868ba7-c14a-c536-b76e-44385255c861 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +299,7 @@ TYCO Readings, Visitor: CIO Dana Deasy
 ACE Case, US Customs Transformation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_20question))
+({{% resource_link b9a5bfa2-e2f7-dea7-2ade-dce0664c78c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +311,7 @@ ACE Case, US Customs Transformation
 Business Strategy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_21question))
+({{% resource_link 106ea200-09c0-d4a7-7ebe-199229a73434 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +323,7 @@ Business Strategy
 Visitor: Omar Baig, IFC / World Bank
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/class_22question))
+({{% resource_link e8144b4e-eee1-fc40-7ba3-1ed1c51ef843 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,9 +365,9 @@ Team Project Presentations (cont.)
 Discussion / Debate: "Does IT Matter?"
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/class_25question))  
+({{% resource_link 9f617b4d-8d18-9c62-1294-372cdc8a2553 "PDF 1" %}})  
   
-([PDF 2]({{< baseurl >}}/resources/class_24_slides))
+({{% resource_link 81c6c992-b703-bf21-fb0f-f1956bbe9e60 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
