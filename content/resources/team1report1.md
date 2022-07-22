@@ -6,6 +6,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: team1report1.pdf
 uid: 5aa05a54-7446-a506-5a47-dae16a43e060
 ---
 This file contains status report for the project, it includes the issues, next steps for the implementation of the course.
-

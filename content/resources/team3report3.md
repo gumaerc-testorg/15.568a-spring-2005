@@ -5,6 +5,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: team3report3.pdf
 uid: 990b33da-60dc-2d47-996d-16da8c2ca62b
 ---
 This file contains the project report status for the project 'MIT Portal'.
-

@@ -5,6 +5,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class_25_slides.pdf
 uid: 95d340b4-bae8-34ec-a588-a81ae3222b4e
 ---
 This file contains the notes for the topic: 'Does IT Matter'
-

@@ -6,6 +6,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: team1proposal.pdf
 uid: 695d450b-dba5-504b-c47a-df46d60ef650
 ---
 This file contains the outline, objective, context for the project Randomize, VoIP Implementation at MIT.
-

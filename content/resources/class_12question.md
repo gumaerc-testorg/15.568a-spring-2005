@@ -5,6 +5,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class_12question.pdf
 uid: 42a798a9-dcc3-141f-7762-f4774436e6c1
 ---
 This file contains the assignment for CareGroup.
-

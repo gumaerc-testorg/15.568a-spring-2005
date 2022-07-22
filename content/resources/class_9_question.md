@@ -5,6 +5,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class_9_question.pdf
 uid: da151613-2bee-d069-670f-fc8a580a3b9f
 ---
 This file contains questions and assignment for Dow Corning.
-

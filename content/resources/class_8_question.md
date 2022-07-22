@@ -5,6 +5,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class_8_question.pdf
 uid: 94cd4919-59a9-1b1c-191c-830fe52985c3
 ---
 This file contains questions and assignment for first national bank.
-

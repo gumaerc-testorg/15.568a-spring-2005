@@ -5,6 +5,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class_14question.pdf
 uid: 83f8f86d-d280-9c36-f241-9d5ddf64546c
 ---
 This file contains the information on the project discussion.
-

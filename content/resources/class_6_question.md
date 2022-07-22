@@ -5,6 +5,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class_6_question.pdf
 uid: 070b5c3a-1334-ace8-6486-bc4ce403b38c
 ---
 This file contains assignment for Pharmaco.
-

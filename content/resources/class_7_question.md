@@ -5,6 +5,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class_7_question.pdf
 uid: 57cb2f97-c3e8-062e-853b-c09f38efb0e9
 ---
 This file contains questions and assignment for first national city bank.
-

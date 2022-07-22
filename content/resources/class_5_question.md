@@ -5,6 +5,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class_5_question.pdf
 uid: de5984d3-3889-7c47-41d9-d6c786534ded
 ---
 This file contains assignment for AIRNow.
-

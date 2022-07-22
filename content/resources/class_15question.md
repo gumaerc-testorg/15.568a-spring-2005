@@ -5,6 +5,7 @@ file: /courses/15-568a-practical-information-technology-management-spring-2005/b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class_15question.pdf
 uid: b5233013-3330-b9c0-5ebe-a929195b95fb
 ---
 This file contains assignment for the class on a talk by CEO of TCS.
-
