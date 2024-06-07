@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains questions and assignment for Royal Caribbean Cruises
   Limited.
 file: /courses/15-568a-practical-information-technology-management-spring-2005/1dfec9b5101a3c181fd220cad4d1e5f7_class_2_question.pdf
+file_size: 11078
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the status report on the project under the subheads
   accomplishments, actions, issues and reflections.
 file: /courses/15-568a-practical-information-technology-management-spring-2005/8eb75628a3500750404dc1bb7a77cfd1_team2report3.pdf
+file_size: 47081
 file_type: application/pdf
 learning_resource_types:
 - Projects

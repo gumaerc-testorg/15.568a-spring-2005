@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the proposal of the project on outdoor wireless at
   MIT.
 file: /courses/15-568a-practical-information-technology-management-spring-2005/7569ec19fb84e7ce1ecfefc84027c5e5_team2proposal.pdf
+file_size: 164911
 file_type: application/pdf
 learning_resource_types:
 - Projects
