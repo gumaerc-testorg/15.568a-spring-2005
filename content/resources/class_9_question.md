@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains questions and assignment for Dow Corning.
 file: /courses/15-568a-practical-information-technology-management-spring-2005/da1516132beed069670ffc8a580a3b9f_class_9_question.pdf
+file_size: 24053
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
