@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-568a-practical-information-technology-management-spring-2005/ffa97939f3826c4415113cc13361de37_team1report2.pdf
+file_size: 25358
 file_type: application/pdf
 learning_resource_types:
 - Projects
