@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains assignment on administrative data project.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/7970834c24510f8948b944329a5e749a_class_3_question.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/7970834c24510f8948b944329a5e749a_class_3_question.pdf
 file_size: 10607
 file_type: application/pdf
 learning_resource_types:

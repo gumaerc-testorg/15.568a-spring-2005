@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the status report for the project 'Outdoor Wireless
   at MIT.'
-file: /courses/15-568a-practical-information-technology-management-spring-2005/483f78ae676cdf1b3dc2f385c7a413d1_team2report1.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/483f78ae676cdf1b3dc2f385c7a413d1_team2report1.pdf
 file_size: 33521
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions and assignment for ACE.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/b9a5bfa2e2f7dea72adedce0664c78c8_class_20question.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/b9a5bfa2e2f7dea72adedce0664c78c8_class_20question.pdf
 file_size: 12124
 file_type: application/pdf
 learning_resource_types:
