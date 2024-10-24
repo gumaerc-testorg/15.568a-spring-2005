@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions and assignment for first national city bank.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/57cb2f97c3e8062e853bc09f38efb0e9_class_7_question.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/57cb2f97c3e8062e853bc09f38efb0e9_class_7_question.pdf
 file_size: 12848
 file_type: application/pdf
 learning_resource_types:

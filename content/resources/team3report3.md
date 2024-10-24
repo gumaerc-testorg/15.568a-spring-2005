@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the project report status for the project 'MIT Portal'.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/990b33da60dc2d47996d16da8c2ca62b_team3report3.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/990b33da60dc2d47996d16da8c2ca62b_team3report3.pdf
 file_size: 74330
 file_type: application/pdf
 learning_resource_types:

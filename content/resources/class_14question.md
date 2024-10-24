@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information on the project discussion.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/83f8f86dd2809c36f2419d5ddf64546c_class_14question.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/83f8f86dd2809c36f2419d5ddf64546c_class_14question.pdf
 file_size: 11144
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains assignment for AIRNow.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/de5984d338897c4741d9d6c786534ded_class_5_question.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/de5984d338897c4741d9d6c786534ded_class_5_question.pdf
 file_size: 15011
 file_type: application/pdf
 learning_resource_types:
