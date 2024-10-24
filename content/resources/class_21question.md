@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions on business strategy.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/106ea20009c0d4a77ebe199229a73434_class_21question.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/106ea20009c0d4a77ebe199229a73434_class_21question.pdf
 file_size: 14148
 file_type: application/pdf
 learning_resource_types:

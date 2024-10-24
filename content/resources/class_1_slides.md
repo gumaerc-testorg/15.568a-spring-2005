@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes on BT as a driver, 3 eras of IT context, role
   of IT in an organisation etc.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/508b3740bcde07c8fc7f463e13875554_class_1_slides.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/508b3740bcde07c8fc7f463e13875554_class_1_slides.pdf
 file_size: 66319
 file_type: application/pdf
 learning_resource_types:
