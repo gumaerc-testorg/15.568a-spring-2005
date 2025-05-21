@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the outline, objective, context for the project Randomize,
   VoIP Implementation at MIT.
-file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/695d450bdba5504bc47adf46d60ef650_team1proposal.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/695d450bdba5504bc47adf46d60ef650_team1proposal.pdf
 file_size: 117805
 file_type: application/pdf
 learning_resource_types:
