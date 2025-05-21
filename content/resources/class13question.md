@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/c1cc08f3d87225f1ae7af225c96b4bc9_class13question.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/c1cc08f3d87225f1ae7af225c96b4bc9_class13question.pdf
 file_size: 23435
 file_type: application/pdf
 learning_resource_types:

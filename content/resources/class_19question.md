@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains assignment for Tyco Internation Ltd.
-file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/25868ba7c14ac536b76e44385255c861_class_19question.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/25868ba7c14ac536b76e44385255c861_class_19question.pdf
 file_size: 51415
 file_type: application/pdf
 learning_resource_types:

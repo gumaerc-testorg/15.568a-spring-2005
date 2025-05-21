@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains a hypothetical situation for conducting a class discussion.
-file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/d8056f09bd0b3be6ffb91a7a9c39bac9_class_1_case.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/d8056f09bd0b3be6ffb91a7a9c39bac9_class_1_case.pdf
 file_size: 14581
 file_type: application/pdf
 learning_resource_types:

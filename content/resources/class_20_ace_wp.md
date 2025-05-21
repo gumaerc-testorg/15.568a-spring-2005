@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file consists of the details of the ACE project.
-file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/47ccdc2849c0f69c524587020b0606fb_class_20_ace_wp.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/47ccdc2849c0f69c524587020b0606fb_class_20_ace_wp.pdf
 file_size: 645950
 file_type: application/pdf
 learning_resource_types:
