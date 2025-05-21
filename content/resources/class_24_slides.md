@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the notes for the topic: " Does IT matter?"'
-file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/81c6c992b703bf21fb0ff1956bbe9e60_class_24_slides.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/81c6c992b703bf21fb0ff1956bbe9e60_class_24_slides.pdf
 file_size: 104366
 file_type: application/pdf
 learning_resource_types:

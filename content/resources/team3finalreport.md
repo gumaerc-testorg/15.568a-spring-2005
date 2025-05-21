@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the final report of the project 'Due Diligence for
   the MIT Portal' made by the students.
-file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/8b13296daa8317d9280e5bc92fcc10b8_team3finalreport.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/8b13296daa8317d9280e5bc92fcc10b8_team3finalreport.pdf
 file_size: 1097894
 file_type: application/pdf
 learning_resource_types:

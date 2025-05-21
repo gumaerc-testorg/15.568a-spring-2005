@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains assignment for Enterprise Application Integration
   Web Services and Business Process Management.
-file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/e61e8cc60b0db5dc4313df0c919c4432_class_18question.pdf
+file: /courses/15-568a-practical-information-technology-management-spring-2005/e61e8cc60b0db5dc4313df0c919c4432_class_18question.pdf
 file_size: 15242
 file_type: application/pdf
 learning_resource_types:
