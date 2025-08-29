@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the final report for the project by the students named
   'Project Randomize'.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/031f460ed79cf9b954464c3225640724_team1finalreport.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/031f460ed79cf9b954464c3225640724_team1finalreport.pdf
 file_size: 1021101
 file_type: application/pdf
 learning_resource_types:
