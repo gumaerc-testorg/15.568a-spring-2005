@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the final project report by the students named 'Outdoor
   Wireless at MIT'.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/de19fbd46fb5262f53537db310be4d22_team2finalreport.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/de19fbd46fb5262f53537db310be4d22_team2finalreport.pdf
 file_size: 646496
 file_type: application/pdf
 learning_resource_types:
