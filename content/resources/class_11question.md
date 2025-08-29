@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the assignment for RFID.
-file: /courses/15-568a-practical-information-technology-management-spring-2005/4029165b70b42aec634bf52cc99ce3cf_class_11question.pdf
+file: /ol-ocw-studio-app/courses/15-568a-practical-information-technology-management-spring-2005/4029165b70b42aec634bf52cc99ce3cf_class_11question.pdf
 file_size: 21418
 file_type: application/pdf
 learning_resource_types:
